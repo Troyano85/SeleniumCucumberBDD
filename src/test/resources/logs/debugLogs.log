@@ -1,0 +1,24 @@
+15:19:54.185 DEBUG AUTOMATION - Inicializando el driver
+15:20:03.115 DEBUG AUTOMATION - Maximizando la pantalla
+15:20:03.237 DEBUG AUTOMATION - Eliminando las cookies
+15:20:03.295 DEBUG AUTOMATION - Guardando el webDriver inicializado
+15:20:05.881 INFO  AUTOMATION - Escribo el username
+15:20:06.233 INFO  AUTOMATION - Escribo el password
+15:20:06.440 INFO  AUTOMATION - Hago click en el boton de login
+15:20:06.785 INFO  AUTOMATION - Verificando la ui de la pagina de  shoppping
+15:20:07.082 DEBUG AUTOMATION - Matando el driver
+15:20:07.559 DEBUG AUTOMATION - Inicializando el driver
+15:20:10.682 DEBUG AUTOMATION - Maximizando la pantalla
+15:20:10.806 DEBUG AUTOMATION - Eliminando las cookies
+15:20:10.844 DEBUG AUTOMATION - Guardando el webDriver inicializado
+15:20:12.456 INFO  AUTOMATION - Escribo el username
+15:20:12.825 INFO  AUTOMATION - Escribo el password
+15:20:13.014 INFO  AUTOMATION - Hago click en el boton de login
+15:20:13.308 INFO  AUTOMATION - Verifico mensaje de error
+15:20:13.397 DEBUG AUTOMATION - Matando el driver
+15:20:13.814 DEBUG AUTOMATION - Inicializando el driver
+15:20:16.626 DEBUG AUTOMATION - Maximizando la pantalla
+15:20:16.740 DEBUG AUTOMATION - Eliminando las cookies
+15:20:16.788 DEBUG AUTOMATION - Guardando el webDriver inicializado
+15:20:18.104 INFO  AUTOMATION - Verificando la pagina de login
+15:20:18.315 DEBUG AUTOMATION - Matando el driver

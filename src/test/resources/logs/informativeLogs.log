@@ -1,0 +1,9 @@
+15:20:05.881 INFO  AUTOMATION - Escribo el username
+15:20:06.233 INFO  AUTOMATION - Escribo el password
+15:20:06.440 INFO  AUTOMATION - Hago click en el boton de login
+15:20:06.785 INFO  AUTOMATION - Verificando la ui de la pagina de  shoppping
+15:20:12.456 INFO  AUTOMATION - Escribo el username
+15:20:12.825 INFO  AUTOMATION - Escribo el password
+15:20:13.014 INFO  AUTOMATION - Hago click en el boton de login
+15:20:13.308 INFO  AUTOMATION - Verifico mensaje de error
+15:20:18.104 INFO  AUTOMATION - Verificando la pagina de login

@@ -1,0 +1,10 @@
+utilities\WebDriverProvider.class
+steps\LoginStepDefinition.class
+pages\LoginPage.class
+steps\ShoppingStepDefinition.class
+utilities\BasePage.class
+utilities\CommonFlows.class
+principal\RunTests.class
+pages\ShoppingPage.class
+hooks\Hooks.class
+utilities\Logs.class
